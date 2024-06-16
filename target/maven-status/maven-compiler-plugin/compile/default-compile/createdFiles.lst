@@ -1,0 +1,5 @@
+com/seh/model/Student.class
+com/seh/config/CorpsConfig.class
+com/seh/controller/StudentController.class
+com/seh/repository/StudentRepository.class
+com/seh/SehStudentsApplication.class
