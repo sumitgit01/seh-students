@@ -1,5 +1,0 @@
-GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
-seh-students,com.seh.model,Student,51,10,0,0,17,5,8,3,8,3
-seh-students,com.seh,SehStudentsApplication,8,0,0,0,3,0,2,0,2,0
-seh-students,com.seh.config,CorpsConfig,36,0,0,0,6,0,2,0,2,0
-seh-students,com.seh.controller,StudentController,0,29,0,0,0,6,0,3,0,3
