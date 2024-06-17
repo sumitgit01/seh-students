@@ -22,3 +22,16 @@ mysql> GRANT ALL PRIVILEGES ON db_name.* TO 'username'@'localhost' WITH GRANT OP
 GRANT ALL PRIVILEGES ON studentDB.* TO'root'@'localhost';   worked
 
 GRANT ALL ON *.* TO 'root'@'192.168.68.115';
+
+
+GRANT ALL PRIVILEGES ON databaseName.* TO 'root'@'192.168.68.122' IDENTIFIED BY 'Sumit@1234';
+FLUSH PRIVILEGES;
+
+
+
+Chat GPT:
+
+
+GRANT ALL PRIVILEGES ON studentDB.* TO 'root'@'192.168.68.122';
+
+/root/.m2/repository/mysql/mysql-connector-java
